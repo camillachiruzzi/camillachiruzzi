@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Camilla 👋 
 
-<!--
-**camillachiruzzi/camillachiruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing a Master's degree in **Data Science and Business Informatics** at the University of Pisa.
 
-Here are some ideas to get you started:
+Working with:
+- **Python** for data mining, time series analysis, explainable AI, classification & clustering, predictive modeling, optimization algorithms, and ETL processes
+- **R** for statistical analysis and data exploration
+- **PySpark** for distributed data processing
+- **Data visualization** with **JavaScript**, **Vue**, and **D3.js**
+- **SQL**, **MDX**, and **Power BI** for business analytics and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning more about:
+- **Complex network analysis** with **NetworkX**
+
+You can reach me at: 
+[LinkedIn](https://www.linkedin.com/camilla-chiruzzi)
