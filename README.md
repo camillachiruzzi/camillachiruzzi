@@ -11,3 +11,6 @@ Working with:
 
 Currently learning more about:
 - **Complex network analysis** with **NetworkX**
+
+You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/camilla-chiruzzi/)
+
