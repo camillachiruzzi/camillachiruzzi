@@ -11,6 +11,3 @@ Working with:
 
 Currently learning more about:
 - **Complex network analysis** with **NetworkX**
-
-You can reach me at: 
-[LinkedIn](https://www.linkedin.com/camilla-chiruzzi)
