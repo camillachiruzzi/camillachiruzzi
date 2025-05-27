@@ -17,7 +17,7 @@ class WhoAmI:
 
 ## What I work with:
 
-- **Python** for data mining, machine learning, time series analysis, explainable AI, classification & clustering, optimization algorithms, and ETL pipelines  
+- **Python** for data mining, machine learning, neural networks, time series analysis, explainable AI, classification & clustering, optimization algorithms, and ETL pipelines  
 - **R** for statistical modeling, data exploration, and reporting  
 - **PySpark** for scalable and distributed data processing  
 - **SQL**, **MDX**, and **Power BI** for business intelligence, OLAP queries, and dashboarding  
@@ -52,6 +52,7 @@ Currently learning more about **Complex network analysis** using **NetworkX**
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/NetworkX-00A3E0?style=flat-square&logo=python&logoColor=white" />
 </p>
 
