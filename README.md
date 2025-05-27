@@ -46,6 +46,8 @@ Currently learning more about **Complex network analysis** using **NetworkX**
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&style=flat-square"/>
+
 
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
 
