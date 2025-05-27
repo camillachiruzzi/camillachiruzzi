@@ -3,7 +3,7 @@
 ```python
 class WhoAmI:
     name = "Camilla Chiruzzi"
-    current_role = "Data Science MSc Student @ University of Pisa"
+    current_role = "Data Science & BI MSc Student @ University of Pisa"
     
     interests = [
         "Data mining & machine learning",
